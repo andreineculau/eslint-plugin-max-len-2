@@ -11,13 +11,13 @@ allows you to define soft and hard limits in your `.eslintrc.yaml` like this:
 
 ```yaml
   max-len:
-    - warn
-    - code: 80
+    - error
+    - code: 120
       ignoreComments: true
       ignoreUrls: true
   max-len-2/max-len-2:
-    - error
-    - code: 120
+    - warn
+    - code: 80
       ignoreComments: true
       ignoreUrls: true
 ```

@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-max-len-2",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "A secondary max-len rule, for soft limits.",
     "files": [
         "index.js"
