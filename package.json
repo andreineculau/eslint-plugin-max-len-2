@@ -1,0 +1,26 @@
+{
+    "name": "eslint-plugin-max-len-2",
+    "version": "0.0.1",
+    "description": "A secondary max-len rule, for soft limits.",
+    "files": [
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/andreineculau/eslint-plugin-max-len-2.git"
+    },
+    "author": "Andrei Neculau <andrei.neculau@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/andreineculau/eslint-plugin-max-len-2/issues"
+    },
+    "homepage": "https://github.com/andreineculau/eslint-plugin-max-len-2",
+    "keywords": [
+        "eslint",
+        "eslintplugin",
+        "eslint-plugin",
+        "line",
+        "length",
+        "max-len"
+    ]
+}
