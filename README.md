@@ -17,7 +17,7 @@ allows you to define soft and hard limits in your `.eslintrc.yaml` like this:
       ignoreUrls: true
   max-len-2/max-len-2:
     - error
-    - code: 10
+    - code: 120
       ignoreComments: true
       ignoreUrls: true
 ```
