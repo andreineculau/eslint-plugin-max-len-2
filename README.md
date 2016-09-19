@@ -1,5 +1,7 @@
 # max-len-2 (eslint plugin)
 
+Ref: https://github.com/eslint/eslint/issues/6910
+
 Usually I have a soft-limit of 80 characters per line,
 and a hard-limit of 120 characters per line.
 
